@@ -1,6 +1,8 @@
 # Blind Math-dominos
 #### by Dominique Vienne - pierredominique.vienne@gmail.com
 This repository contains 3D models of domino using braille used to learn basic math operations
+
+![20190502_002955](https://user-images.githubusercontent.com/4158499/57375957-0f2f2f00-719f-11e9-9f3a-e050a0a41f5c.jpg)
 ## What are these dominos for?
 Those domino are used to learn simple mathematical operations ( + - * / ) by playing dominos
 ## For who those dominos are intended?
