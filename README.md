@@ -39,6 +39,7 @@ These files are 3D models, semi-ready to print and ready ro print files. You nee
 - the provided gCode are made for these printers
 - models are well tested on them
 - community is aligned with open-source projects
+
 The master.blend file is a Blender (https://www.blender.org/) 3D model which you can use to export any other braille domino using STL format. 
 The STL files are files you can slice in the slicer you use to generate gCode files (i.e. Slic3r - https://slic3r.org/). 
 You will also find ready-to-print files. Those files are gCode files. Be aware that those files are designed to use a specific hardware (i.e. Prusa MK3s with 0.25mm nozzle).
