@@ -50,7 +50,7 @@ The prints have been tested with blind people validation on
 - Prusa MK3s - 0.4mm original nozzle: not perfect but readable
 - Prusa MK3s - 0.25mm: works great
 ## How do I support the project?
-- Download the print and print them
+- Download the models and print them
 - Watch the repository
 - Star the repository
 - Have a chat with me
