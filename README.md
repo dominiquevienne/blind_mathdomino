@@ -49,3 +49,10 @@ Any 3D printer with any technology is suitable for the project. For financial re
 The prints have been tested with blind people validation on
 - Prusa MK3s - 0.4mm original nozzle: not perfect but readable
 - Prusa MK3s - 0.25mm: works great
+## How do I support the project?
+- Download the print and print them
+- Watch the repository
+- Star the repository
+- Have a chat with me
+- Share the project all around
+- Buy me a beer... or more using Paypal: paypal.me/gloomyspark
