@@ -55,4 +55,4 @@ The prints have been tested with blind people validation on
 - Star the repository
 - Have a chat with me
 - Share the project all around
-- Buy me a beer... or more using Paypal: https://paypal.me/gloomyspark
+- Send me CHF 15.- through Paypal in order to help a blind / visual impaired learn mathematics by offering him a complete kit: https://paypal.me/gloomyspark
