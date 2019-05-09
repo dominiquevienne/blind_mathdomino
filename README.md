@@ -6,6 +6,8 @@ This repository contains 3D models of domino using braille used to learn basic m
 ## What are these dominos for?
 Those domino are used to learn simple mathematical operations ( + - * / ) by playing dominos
 They are based on the official swiss program and are the exact copy of the paper ones used by non-blind people. 
+
+![Dominos - Livret](https://github.com/dominiquevienne/blind_mathdomino/blob/master/assets/Dominos%20livrets_page_1.jpg)
 ## For who those dominos are intended?
 Those dominos are mainly intended to blind and visual impaired people who want to learn math and / or braille. However, since they have a space where to write "standard" way to express mathematical operations, you can also use them to learn braille or to make people aware of what braille is. 
 ## How a domino is made?
